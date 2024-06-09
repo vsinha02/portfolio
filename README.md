@@ -3,11 +3,11 @@
 
 ## Education
 
-    Diploma in Computer Science, NIIT, New Delhi, India
+  -  Diploma in Computer Science, NIIT, New Delhi, India
     
-    Bachelor Degree, IT College, Lucknow, India
+   - Bachelor Degree, IT College, Lucknow, India
     
-    High School, Spring Dale College, Lucknow, India
+  -  High School, Spring Dale College, Lucknow, India
 
 
 ## Work Experience
